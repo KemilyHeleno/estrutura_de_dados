@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 #include <locale.h>
-#define pessoa 2
+#define pessoa 5
 
 struct cadastro {
 	char nome[50];
